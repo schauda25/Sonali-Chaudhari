@@ -8,17 +8,11 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/techy-anshikagupta/" target="_blank">
+  <a href="www.linkedin.com/in/sonali-chaudhari-45b64b24" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://twitter.com/ANSHIKA71688056" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-  <a href="https://www.instagram.com/anshikagupta.tech?igsh=Nm1rZmR6NXBzcDV6&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-D7008A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+
 
 </div>
 
@@ -36,7 +30,6 @@
 **Languages and Tools:**  
 <p>
     <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-alt="expressjs" />
     <img src="https://img.shields.io/badge/soap-ui-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="soap-ui" />
     <img src="https://img.shields.io/badge/kafka-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="kafka" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
