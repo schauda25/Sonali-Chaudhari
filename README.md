@@ -16,12 +16,12 @@
 </div>
 
 
-- 🔭 I’m currently working in **Retail banking domain  **
+- 🔭 I’m currently working as **Middleware Test specialist in banking Domain **
 
 - 🌱 I’m currently learning **AI tools **
 
 
-- 💬 Ask me about **Softerware testing in retail banking ,Insurance domain,watsonx AI **
+- 💬 Ask me about **API Testing,Generative AI,Agentic AI **
 
 - 📫 How to reach me **sonalichau25@gmail.com**
 
